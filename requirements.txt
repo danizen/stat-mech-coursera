@@ -1,0 +1,4 @@
+jupyter
+numpy
+pandas
+https://github.com/Valassis-Digital-Media/nbconflux/archive/master.zip
